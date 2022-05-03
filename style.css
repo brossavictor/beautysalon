@@ -505,7 +505,7 @@ footer .social {
 }
 
 footer .social a {
-  /* margin-right: 2rem; */
+  margin-right: 2rem;
   transition: 0.3s;
   display: inline-block;
 }
