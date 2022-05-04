@@ -465,6 +465,12 @@ nav.show div.icon-close {
   color: var(--base-color);
 }
 
+/* links */
+
+.links {
+  margin-left: auto;
+}
+
 /* footer */
 footer {
   background: var(--base-color);
@@ -500,7 +506,6 @@ footer i {
 footer .social {
   grid-auto-flow: column;
   width: fit-content;
-  margin-right: 17.5rem;
   align-items: right;
 }
 
